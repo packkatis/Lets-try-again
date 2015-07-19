@@ -1,2 +1,1 @@
-# Lets-try-again
-This will be better. I promise!! :)
+This repo is the second one that i have ever made. I have seen other people do it, through mods in Kerbal Space Program. I wanted to try it out but i don'd know how it works yet. That's where it comes to. Through this repo I hope to learn how to do this stuff becouse I want to publish a KSP Mod. I want everyone (if anyone) that sees it to just ignore it. So let the fun (and the tests) begin!! :)
